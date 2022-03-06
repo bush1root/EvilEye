@@ -1,0 +1,16 @@
+[
+{
+  "modid": "evileye",
+  "name": "Evil Eye",
+  "description": "Best Modification. Not for you AHAHAHHAHAAH",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Aldres0n"],
+  "credits": "Modification by Aldres0n :)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
